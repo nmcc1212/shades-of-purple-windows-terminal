@@ -1,6 +1,6 @@
 # shades-of-purple-windows-terminal
 
-**for wsl systems (ubuntu in this case but use the package manager for your distro):
+**for wsl systems (ubuntu in this case but use the package manager for your distro):**
 
 install zsh
   ```sudo apt install zsh```
