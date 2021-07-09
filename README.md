@@ -48,3 +48,8 @@ paste the below text into the "scheme" section of the json file
         }
 
 ```
+
+save the file
+in the windows terminal settings press on appearance and select the shades of purple theme
+
+if this does not work press on the profile oyu want e.g. powershell and select the profile under the appearance tab
