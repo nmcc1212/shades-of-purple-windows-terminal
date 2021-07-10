@@ -53,3 +53,4 @@ save the file
 in the windows terminal settings press on appearance and select the shades of purple theme
 
 if this does not work press on the profile oyu want e.g. powershell and select the profile under the appearance tab
+![Screenshot 2021-07-10 031356](https://user-images.githubusercontent.com/48334675/125148837-faf36d80-e12c-11eb-9e8e-c31f15aad595.png)
