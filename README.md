@@ -10,11 +10,11 @@ install zsh
   
 Drop the shades-of-purple.zsh-theme file in to the ~/.oh-my-zsh/themes/ directory.
 
-Open up your ZSH preferences at ~/.zshrc and change the theme variable to ZSH_THEME="shades-of-purple".
+Open  your ZSH preferences using ```nano ~/.zshrc``` and change the theme variable to ZSH_THEME="shades-of-purple".
 
 change your font Inconsolata for Powerline in the windows terminal settings (ctrl+,)
 
-Refresh ZSH by typing source ~/.zshrc on the command line.
+Refresh ZSH by typing ```source ~/.zshrc``` on the command line.
 
 
 **changing the colour scheme**
