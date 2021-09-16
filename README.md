@@ -8,7 +8,7 @@ install zsh
  install oh-my-zsh
   ```sh -c "$(wget https://raw.github.com/ohmyzsh/ohmyzsh/master/tools/install.sh -O -)"```
   
-Drop the shades-of-purple.zsh-theme file in to the ~/.oh-my-zsh/themes/ directory.
+Drop the shades-of-purple.zsh-theme file in to the ```~/.oh-my-zsh/themes/``` directory.
 
 Open  your ZSH preferences using ```nano ~/.zshrc``` and change the theme variable to ``ZSH_THEME="shades-of-purple"``.
 
