@@ -1,4 +1,4 @@
-# shades-of-purple-windows-terminal
+# Shades Of Purple for Windows Terminal
 
 **for wsl systems (ubuntu in this case but use the package manager for your distro):**
 
