@@ -74,8 +74,9 @@ prompt_context() {
 
   if [[ "$user" != "$DEFAULT_USER" || -n "$SSH_CLIENT" ]]; then
     prompt_segment black default "%{%F{green}%}$USER@%m %{%F{white}%}❯"
-  fi
+  else
     prompt_segment black default "%(!.%{%F{yellow}%}.)❯"
+  fi
 }
 
 # Git: branch/detached head, dirty status.
