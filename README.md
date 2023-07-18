@@ -12,7 +12,7 @@ Drop the shades-of-purple.zsh-theme file in to the ```~/.oh-my-zsh/themes/``` di
 
 Open  your ZSH preferences using ```nano ~/.zshrc``` and change the theme variable to ``ZSH_THEME="shades-of-purple"``.
 
-change your font to [Inconsolata for Powerline](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf) in the windows terminal settings (ctrl+,)
+change your font to [Inconsolata for Powerline](https://github.com/powerline/fonts/blob/master/Inconsolata/Inconsolata%20for%20Powerline.otf) in the windows terminal settings, ubuntu (under profiles) > appearance > font face
 
 Refresh ZSH by typing ```source ~/.zshrc``` on the command line.
 
