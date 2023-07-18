@@ -21,7 +21,7 @@ Refresh ZSH by typing ```source ~/.zshrc``` on the command line.
 
 open windows terminal settings (ctrl+,)
 
-press the button that syas open JSON file
+press `open JSON file`
 
 paste the below text into the "scheme" section of the json file
 ```
